@@ -1,0 +1,9 @@
+name: my_macro_user
+publish_to: none
+environment:
+  sdk: ">=3.4.0-0 <4.0.0"
+
+dependencies:
+  macros: ^0.1.0-0
+  my_macro:
+    path: ../my_macro

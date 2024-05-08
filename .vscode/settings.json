@@ -1,0 +1,5 @@
+{
+	"dart.analyzerInstrumentationLogFile": "logs/root.txt",
+	"dart.experimentalMacroSupport": true,
+	// "dart.sdkPath": "C:\\Dev\\Tools\\Dart\\Latest (Bleeding Edge)",
+}
